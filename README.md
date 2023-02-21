@@ -28,6 +28,7 @@
 | Amazon AWS | https://t.me/mr_incloud | LeetCode 40+ Medium/Hard + LP examples (at least 2). EU/US/Canada, Full-time only. |
 | Amazon AWS | https://t.me/sc0rp1us | NDE L4+ roles. CV in English + job link |
 | Amazon AWS | https://t.me/natalia_bondarevska |  |
+| Amazon AWS | https://t.me/balamanova | Resume + job link |
 | Andela | https://t.me/engineer_data | happy to refer |
 | Apple | https://t.me/advance_lunge | ONLY Site Reliability Engineering: Software Engineers and Systems Engineers. London. I ignore non-SRE. SRE experience is not required, interested Software Engineers are welcome. No juniors yet please (working on that). Resume, leetcode statistics + short cover letter "why interested". |
 | Apple | https://t.me/Anton_37356 | 200+ leetcode medium, CV + job link + cover letter about why you are a good fit for Apple  |
@@ -174,7 +175,6 @@
 | Unity | https://t.me/zham_rys | Required at least 3+ years of experience  |
 | Wargaming | https://t.me/eldvn | No intern / No new grad. Required 2+ years of experience in Python.  |
 | WovenPlanet | https://t.me/antontsue | Sec OR General/Linux OR c/c++ OR automotive OR rust. resume, link to the position, willingness to move to Japan |
-| Yandex | https://t.me/balamanova | Resume + job link |
 | Yandex | https://t.me/dmkorzhimanov |  |
 | Yandex | https://t.me/eertree_work | leetcode + codeforces |
 | Yandex | https://t.me/f1nchito | I can tell you about FE, DM me in Telegram with any questions) |
