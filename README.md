@@ -123,7 +123,6 @@
 | Microsoft | https://t.me/dimaymik | Israel, 3+ years of exp. , CV, LinkedIn |
 | Microsoft | https://t.me/dmitry_brazhenko |  |
 | Microsoft | https://t.me/dreamminister | European offices only |
-| Microsoft | https://t.me/greenEkatherine | Resume + job link |
 | Microsoft | https://t.me/mkotsabiuk | Not answering on rusian (terrorist state) language. |
 | Microsoft | https://t.me/pavlo_andriiesh |  |
 | Microsoft | https://t.me/pgenov | CV, LinkedIn, job links from official careers website |
@@ -144,6 +143,7 @@
 | Ozon | https://t.me/mr_omti | Prepared resume, >= 50 problems at LeetCode or equivalent experience |
 | PACT Pharma | https://www.linkedin.com/in/achursov |  |
 | Pinterest | https://t.me/AlinaLiviniuk |  |
+| Pure Storage | https://t.me/greenEkatherine | Resume + job link |
 | Rakuten | https://t.me/adsukharev | Relocation to Tokyo. DM me in Telegram with links to the positions (up to three) from here https://japan-job-en.rakuten.careers/search-jobs |
 | Reddit | https://t.me/merkylove | Worldwide, CV in English, job link |
 | Revolut | https://www.linkedin.com/in/mikhaildubov/ |  |
